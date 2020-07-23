@@ -453,7 +453,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #373737;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -648,7 +648,7 @@ label,
 a {
     font-family: "helvetica", serif;
     font-weight: 400;
-    color: #575757!important;
+    color: #3E3E3E!important;
 }
 
 .container {
@@ -689,7 +689,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #373737!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -733,7 +733,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #373737!important;
 }
 
 .portfolio-thumb {
