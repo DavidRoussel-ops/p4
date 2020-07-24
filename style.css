@@ -361,6 +361,10 @@ a:hover {
     z-index: 2;
 }
 
+.citation-size{
+    font-size: 1em;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -531,6 +535,11 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
+}
+
+a[data-lightbox] img{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 a[data-lightbox]:hover::before {
